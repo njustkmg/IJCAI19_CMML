@@ -1,5 +1,5 @@
 Code of Comprehensive Semi-Supervised Multi-Modal Learning.
-For any question, please contact Yang Yang (yangy@lamda.nju.edu.cn); Ketao Wang (wangkt@lamda.nju.edu.cn) or De-Chuan Zhan (zhandc@lamda.nju.edu.cn).
+For any question, please contact Yang Yang (yyang@njust.edu.cn); Ketao Wang (wangkt@lamda.nju.edu.cn) or De-Chuan Zhan (zhandc@lamda.nju.edu.cn).
 Enjoy the code.
 
 **************************** Requirement ****************************
@@ -16,7 +16,7 @@ code  ----- The main code of the algorithm. It takes data(img madality and text 
 
 --the parameters
 In the function of train:
-#'cita': parameter of ¦Ä in huberloss
+#'cita': parameter of Â¦Ã„ in huberloss
 
 In the main:
 #'Textfeaturepara': architecture of text feature network 
